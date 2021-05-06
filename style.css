@@ -1,0 +1,143 @@
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.main-section {
+	width: 900px;
+	margin: 150px auto;
+	background: #fff;
+	border: 1px solid #ddd;
+	border-radius: 10px;
+}
+.containercreate {
+	width: 796px;
+	margin: auto;
+}
+.content-left{}
+.content-left img {
+	max-width: 94%;
+	width: 89px;
+	margin-top: 63px;
+	margin-bottom: 17px;
+}
+.content-left h3 {
+	font-size: 24px;
+	margin-bottom: 29px;
+	font-weight: 400;
+}
+.rights-p {
+	color: #cdcdcd;
+}
+
+.rights-contents {
+	margin-top: 142px;
+	text-align: center;
+}
+.rights-contents img {
+	max-width: 100%;
+	width: 204px;
+}
+input {
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 5px 10px;
+	margin-bottom: 29px;
+	margin-right: 14px;
+	outline: none;
+}
+.input1 {
+	padding-right: ;
+	margin: 0;
+	position: relative;
+	width: 100%;
+}
+.pone {
+	font-size: 13px;
+	margin: 0;
+	margin-left: 5px;
+}
+.first-p {
+	display: block;
+	text-decoration: none;
+	margin: 10px 0;
+	font-weight: 600;
+	font-size: 15px;
+	font-weight: 400;
+    margin-left: 5px;
+}
+.ptwo {
+	font-size: 12px;
+	margin-left: 10px;
+	margin-top: -36px;
+}
+.count3 {
+	margin-top: ;
+	display: inline;
+}
+.inputtow{
+    margin-bottom: 0;
+}
+.btns {
+	margin-left: 149px;
+	text-decoration: none;
+	border: ;
+	padding: 8px 25px;
+	border-radius: 6px;
+	background: #468cf4;
+	color: #fff;
+	font-weight: ;
+}
+
+.footer {
+	margin-bottom: 25px;
+}
+.atn {
+	text-decoration: none;
+	margin-left: 28px;
+}
+
+.footer-buttom {
+	position: relative;
+	top: 54px;
+	left: 7px;
+}
+.labelbottom {
+	position: relative;
+	top: 20px;
+}
+.menu {
+	margin-left: 661px;
+}
+.menu ul{}
+.menu ul li {
+	display: inline-block;
+	margin-left: 11px;
+	font-weight: 600;
+	color: #5e5e5e;
+	font-size: 14px;
+}
+select {
+	position: relative;
+	top: 22px;
+	width: 18px;
+	height: 19px;
+	outline: none;
+
+	border: 1px solid #ddd;
+	background: #ddd;
+	margin-left: 5px;
+}
+
+.icons {
+	position: relative;
+	left: 473px;
+	top: -29px;
+	color: #9d9d9f;
+}
+.spanone {
+	position: absolute;
+	right: 561px;
+	top: ;
+	border: 55px;
+	margin-top: 6px;
+}
